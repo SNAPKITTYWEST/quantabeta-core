@@ -1,0 +1,11 @@
+[package]
+name    = "true-entropy"
+version = "0.1.0"
+edition = "2021"
+description = "Exact Shannon entropy — algebraic, not floating point. MPFR correct rounding. Guaranteed interval [L, U]."
+
+[dependencies]
+rug        = { version = "1.24", features = ["float", "rational"] }
+serde      = { version = "1", features = ["derive"] }
+serde_json = "1"
+sha2       = "0.10"

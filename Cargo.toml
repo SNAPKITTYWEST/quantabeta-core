@@ -2,6 +2,8 @@
 members = [
     "crates/quantabeta-core",
     "crates/quantabeta-backtest",
+    "crates/true-entropy",
+    "crates/ramanujan-ops",
 ]
 resolver = "2"
 

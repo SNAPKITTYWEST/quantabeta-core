@@ -1,0 +1,12 @@
+[package]
+name    = "ramanujan-ops"
+version = "0.1.0"
+edition = "2021"
+description = "Exact Ramanujan arithmetic — HRR partition function, Hecke operators T_n, q-series. No float."
+
+[dependencies]
+rug        = { version = "1.24", features = ["rational", "float"] }
+true-entropy = { path = "../true-entropy" }
+serde      = { version = "1", features = ["derive"] }
+serde_json = "1"
+sha2       = "0.10"
