@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SNAPKITTYWEST/quantabeta-core/master/docs/quantabeta-banner.svg" width="100%" alt="QuantaBeta Core"/>
+<img src="./docs/quantabeta-banner.svg" width="100%" alt="QuantaBeta Core"/>
 
 # QuantaBeta Core
 
