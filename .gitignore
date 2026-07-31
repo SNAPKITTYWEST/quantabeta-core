@@ -1,0 +1,5 @@
+target/
+*.o
+*.class
+dist-newstyle/
+.stack-work/
