@@ -1,6 +1,9 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+<img src="./docs/quantabeta-banner.png" width="100%" alt="QuantaBeta Core — Sovereign Deterministic Alpha Mining"/>
+
+<!-- SVG source preserved in docs/quantabeta-banner.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" style="display:none">
   <defs>
     <style>
       .bg { fill: #000; }
