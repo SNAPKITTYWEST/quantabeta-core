@@ -1,0 +1,117 @@
+SOVEREIGN SOURCE LICENSE v1.0 — BUSINESS SOURCE LICENSE VARIANT
+================================================================
+
+Copyright (c) 2026 Ahmad Ali Parr
+Bel Esprit D'Accord Irrevocable Trust (EIN 42-697643)
+SnapKitty Collective
+
+---
+
+SECTION 1 — DEFINITIONS
+
+"Licensor"         means Ahmad Ali Parr and Bel Esprit D'Accord Irrevocable Trust.
+"Software"         means QuantaBeta Core and all files in this repository.
+"Production Use"   means deployment of the Software or any Derivative Work to
+                   generate alpha signals, trading decisions, or financial returns
+                   in a live or paper-trading environment with real or simulated
+                   capital exceeding USD $1,000.
+"Derivative Work"  means any work that incorporates, extends, or is derived from
+                   the Software, including but not limited to forks, ports, wrappers,
+                   or systems that use the Software's arithmetic invariants, proof
+                   structures, or algorithm specifications.
+"Change Date"      means 2029-01-01.
+"WORM Evidence"    means any cryptographically sealed record in the Bifrost chain
+                   establishing prior art, authorship, or derivation.
+
+---
+
+SECTION 2 — GRANT OF RIGHTS (NON-PRODUCTION)
+
+Subject to the terms of this License, the Licensor grants you a worldwide,
+royalty-free, non-sublicensable, non-exclusive license to:
+
+(a) Copy, modify, and distribute the Software for non-Production Use;
+(b) Use the Software for research, education, personal projects, and evaluation;
+(c) Contribute improvements back to the Licensor under the same terms.
+
+This license does NOT grant rights to Production Use before the Change Date.
+
+---
+
+SECTION 3 — PRODUCTION USE RESTRICTION (BSL CORE TERM)
+
+Until the Change Date (2029-01-01), Production Use of the Software requires
+a separate commercial license from the Licensor.
+
+Contact: ahmedparr93@gmail.com | collectivekitty.com
+
+After the Change Date, the Software will be made available under the terms of
+the GNU Affero General Public License v3.0 (AGPL-3.0), which terms are
+incorporated herein by reference.
+
+---
+
+SECTION 4 — SOVEREIGN SOURCE ADDENDUM
+
+4.1 WORM CHAIN INTEGRITY
+Any Derivative Work must preserve and extend the WORM chain audit trail.
+Stripping, forking without attribution, or severing the cryptographic chain
+constitutes a material breach of this License.
+
+4.2 ATTRIBUTION
+All Derivative Works must prominently display:
+    "Based on QuantaBeta Core by Ahmad Ali Parr / SnapKitty Collective"
+    "Original work protected by Bel Esprit D'Accord Irrevocable Trust"
+
+4.3 NO NAMESPACE APPROPRIATION
+The names "SnapKitty", "QuantaBeta", "Sovereign Source", "Bifrost", "SoulVM",
+and "Ahmad Ali Parr" may not be used to endorse or promote Derivative Works
+without prior written permission from the Licensor.
+
+4.4 PRIOR ART PROTECTION
+The WORM chain entries in this repository, and all associated Zenodo DOI records,
+constitute machine-verifiable prior art. Any claim of independent invention that
+postdates the earliest WORM-sealed timestamp of the relevant invention is
+presumptively false and subject to legal remedy.
+
+WORM anchor: github.com/SNAPKITTYWEST/quantabeta-core
+Prior art:   github.com/SNAPKITTYWEST/sov-kernel-monster (Hecke/Jordan/Ramanujan)
+Zenodo:      10.5281/zenodo.21727363 (PAR-011, 2026-07-31)
+Zenodo:      10.5281/zenodo.21443609 (PAR-JST, 2026-07-19)
+
+4.5 TRUST PROPERTY
+The intellectual property embodied in this Software is an asset of the
+Bel Esprit D'Accord Irrevocable Trust. Unauthorized commercial use constitutes
+interference with trust property and may give rise to civil and criminal liability
+under applicable law, including but not limited to criminal copyright infringement
+under 17 U.S.C. § 506.
+
+---
+
+SECTION 5 — DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+THE LICENSOR IS NOT RESPONSIBLE FOR TRADING LOSSES, FINANCIAL DAMAGE, OR ANY
+HARM ARISING FROM USE OF THIS SOFTWARE.
+
+---
+
+SECTION 6 — GOVERNING LAW
+
+This License shall be governed by the laws of the United States of America.
+Any disputes shall be resolved in accordance with the terms of the Trust Deed
+of Bel Esprit D'Accord Irrevocable Trust.
+
+---
+
+For commercial licensing inquiries:
+Ahmad Ali Parr
+collectivekitty.com
+ahmedparr93@gmail.com
+
+Sealed: 2026-07-31
+Chain:  SNAPKITTYWEST/quantabeta-core
+Trust:  Bel Esprit D'Accord Irrevocable Trust (EIN 42-697643)

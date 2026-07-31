@@ -1,10 +1,20 @@
 # QuantaBeta Core — Sovereign Deterministic Alpha Mining
 
-![Status](https://img.shields.io/badge/Status-Building-yellow?style=flat-square)
-![Rust](https://img.shields.io/badge/Rust-exact_rational-orange?style=flat-square)
-![Haskell](https://img.shields.io/badge/Haskell-LiquidHaskell-blue?style=flat-square)
-![Lean](https://img.shields.io/badge/Lean_4-formal_validation-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-AGPL--3.0-green?style=flat-square)
+<p align="center">
+  <img src="./docs/quantabeta-banner.svg" alt="QuantaBeta Core — Sovereign Deterministic Alpha Mining" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Rust-exact_rational-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Haskell-LiquidHaskell-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Lean_4-formal_validation-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Float-BANNED-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/License-Sovereign_Source_v1.0-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BSL-2029--01--01_→_AGPL--3.0-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/WORM-sealed-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Trust-EIN_42--697643-gold?style=flat-square"/>
+</p>
 
 > **Killing the LLM Alpha Myth.** Replaced "LLM Hypothesis → Code Gen" with **Arithmetic Invariant Search → Proof-Carrying Code**.
 
