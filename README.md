@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./docs/quantabeta-banner.svg" width="100%" alt="QuantaBeta Core — Sovereign Deterministic Alpha Mining"/>
+<img src="./docs/quantabeta-banner.gif" width="100%" alt="QuantaBeta Core — Sovereign Deterministic Alpha Mining"/>
 
 
 # QuantaBeta Core
