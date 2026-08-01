@@ -2,6 +2,8 @@
 
 <img src="./docs/quantabeta-banner.gif" width="100%" alt="QuantaBeta Core — Sovereign Deterministic Alpha Mining"/>
 
+<img src="./docs/quantabeta-poster.png" width="100%" alt="QuantaBeta Core Architecture"/>
+
 
 # QuantaBeta Core
 
